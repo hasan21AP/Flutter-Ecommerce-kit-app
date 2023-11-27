@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535142180393",
+    "project_id": "ecommerce-app-kit",
+    "storage_bucket": "ecommerce-app-kit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535142180393:android:e20964ef60bbcb522c9e38",
+        "android_client_info": {
+          "package_name": "com.example.ecorommece_app_kit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrIL6QQRUwMpFJcZeVaxDtvUV5iDZvK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
